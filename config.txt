@@ -1,0 +1,12 @@
+{
+  "host_ip": "",  
+  "host_port": 5566,   
+  "size": 1024,
+  "format": "utf-8",
+  "event": "EVENT",
+  "ping": "PING",
+  "check_interval": 1,
+  "pc1_ip": "",
+  "pc2_ip": "",
+  "url": ""   
+}
